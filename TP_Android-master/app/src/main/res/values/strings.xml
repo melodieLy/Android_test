@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cat-quizz</string>
+    <string name="question">question</string>
+    <string name="rep1">rep1</string>
+    <string name="rep2">rep2</string>
+    <string name="rep3">rep3</string>
+    <string name="rep4">rep4</string>
+    <string name="score">score</string>
+    <string name="end_score">score total : </string>
+    <string name="congratulation">Félicitation !</string>
+    <string name="restart">Rejouer</string>
+    <string name="fishcount">fishcount</string>
+
+    <string name="help">Indice</string>
+    <string name="help_message">Miaou Miaou !</string>
+</resources>

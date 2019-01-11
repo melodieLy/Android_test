@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Quel est le nom du réseau d'ordinateurs à partir duquel Internet à émergé ?",
+      "goodAnswer": 1,
+      "answers": [
+        "Licos",
+        "Arpanet",
+        "NASA",
+        "FAI"
+      ],
+      "difficulty" : 1
+    },
+    {
+      "question": "Qui est ton meilleur ami ?",
+      "goodAnswer": 0,
+      "answers": [
+        "Google",
+        "Bing",
+        "DuckDuckGo",
+        "Ask"
+      ],
+      "difficulty" : 1
+    },
+    {
+      "question": "En informatique, que signifie l'acronime RAM?",
+      "goodAnswer": 2,
+      "answers": [
+        "Rosted Albino Mother",
+        "Realy Averge Monocle",
+        "Random Access Memory",
+        "The Bug"
+      ],
+      "difficulty" : 1
+    },
+    {
+      "question": "Quel est la différence entre un Aigle royal et un Pygargue ?",
+      "goodAnswer": 1,
+      "answers": [
+        "C'est le même oiseau",
+        "Le bec est diférent",
+        "L'un est rouge",
+        "Ils vivent en Europe du Nord"
+      ],
+      "difficulty" : 1
+    },
+    {
+      "question": "Alors ça bosse ?",
+      "goodAnswer": 0,
+      "answers": [
+        "OUI",
+        "NON",
+        "sur LOL oui",
+        "Je dors laisse moi !"
+      ],
+      "difficulty" : 1
+    },
+    {
+      "question": "Quelle est la capital du Benin ?",
+      "goodAnswer": 0,
+      "answers": [
+        "Porto-Novo",
+        "Porto-Nova",
+        "Porto-Nori",
+        "Porto-NaNa"
+      ],
+      "difficulty" : 2
+    },
+    {
+      "question": "Lesquels de ces titres ont été chanté par les Beatles ?",
+      "goodAnswer": 2,
+      "answers": [
+        "Lucy in the sky with ruby",
+        "What is love",
+        "Yellow submarine",
+        "Never gonna give you up"
+      ],
+      "difficulty" : 2
+    },
+    {
+      "question": "En quelle année a été crée google ?",
+      "goodAnswer": 1,
+      "answers": [
+        "1999",
+        "1998",
+        "1997",
+        "1996"
+      ],
+      "difficulty" : 2
+    },
+    {
+      "question": "Un ordinateur est basiquement ... ?",
+      "goodAnswer": 2,
+      "answers": [
+        "un écran",
+        "un système d'opération",
+        "une calculatrice",
+        "un écureuil"
+      ],
+      "difficulty" : 2
+    },
+    {
+      "question": "правильный ответ - это !! номер три !!",
+      "goodAnswer": 2,
+      "answers": [
+        "не этот",
+        "и не",
+        "ха-ха-ха да",
+        "совсем нет"
+      ],
+      "difficulty" : 2
+    }
+  ]
+}
